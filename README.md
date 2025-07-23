@@ -344,15 +344,6 @@ print("Public URL:", ngrok.connect(8501))
 
 ## 🤝 Contributing
 
-### Repo Structure
-```
-/
-|-- app.py # Streamlit dashboard code
-|-- food_adulteration_data.csv # Example data file
-|-- xgb_pipe.pkl # Pre-trained ML pipeline
-|-- README.md # This documentation
-```
-
 ### Contribution Guidelines
 - Pull requests are welcome!
 - Please open an issue to discuss changes or suggest improvements.
