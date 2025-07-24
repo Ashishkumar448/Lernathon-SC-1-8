@@ -38,6 +38,15 @@ Food adulteration is a major threat to public health, industry reputation, and c
 | 🤝 **No-Code** | Streamlit UI—intuitive, accessible anywhere |
 
 ---
+
+<div align=center>
+  <h3><b>📍Repository Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Ashishkumar448/count.svg" />  
+</p>
+
 ## ⚙️ How It Works
 
 Our Food Adulteration Detection System automates the entire workflow—from raw data to decision-ready analytics—using a robust data pipeline and scalable machine learning architecture.
