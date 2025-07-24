@@ -16,7 +16,7 @@ Food adulteration is a major threat to public health, industry reputation, and c
 | 4     | Dipak Kumar Behera    | 24CSEAIML247      |
 
 ---
- [ppt link](Team(SC1)_8 (ppt).pptx)
+ [ppt link](Team(SC1)_8_(ppt).pptx)
 ---
 ## 🤖 What Does This App Do?
 
