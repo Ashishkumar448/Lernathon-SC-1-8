@@ -344,35 +344,11 @@ print("Public URL:", ngrok.connect(8501))
 
 ---
 
-## 🤝 Contributing
-
-### Contribution Guidelines
-- Pull requests are welcome!
-- Please open an issue to discuss changes or suggest improvements.
-- For bug reports, include steps to reproduce and screenshots if possible.
-
-### Contact Info
-- Project Lead: [Ashish Kumar](24cseds018.ashishkumarjena@giet.edu)
-- GitHub Issues: [repo link]/issues
-
----
-
-## 📜 License and Citation
-
-### Software License
-This project is released under the MIT License.  
-See `LICENSE` in the repository for full terms.
-
-### Citation Info
-If using for academic, hackathon, or competition purposes, please cite as:
-```"AI-Powered Food Adulteration Detection Dashboard, [Your Name/Team], 2025."   ```
-
----
 
 ## 🙏 Acknowledgements
 
 - **Data Sources:** Regulatory agencies, open food safety databases, simulated records.
 - **Major Libraries/Frameworks:** Streamlit, scikit-learn, pandas, XGBoost, matplotlib, seaborn, pyngrok
-- **Special Thanks:**  [Mentor/Support], and all contributors!
+- **Special Thanks:** Mentor/Support, and all contributors!
 
 ---
