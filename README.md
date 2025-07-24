@@ -26,6 +26,7 @@ Food adulteration is a major threat to public health, industry reputation, and c
 - **Views for all roles:** Executive KPIs, Analyst exploration, Regulator compliance, and Operations monitoring.
 
 ---
+![Lernathon-SC-1-8](https://socialify.git.ci/Ashishkumar448/Lernathon-SC-1-8/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 ## 🛠️ Key Features
 
@@ -39,13 +40,7 @@ Food adulteration is a major threat to public health, industry reputation, and c
 
 ---
 
-<div align=center>
-  <h3><b>📍Repository Visitor Count</b></h3>
-</div>
 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Ashishkumar448/count.svg" />  
-</p>
 
 ## ⚙️ How It Works
 
